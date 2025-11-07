@@ -1,5 +1,5 @@
 [project]
-name = "autobotai-library-addons"
+name = "autobotai_library_addons"
 version = "0.0.0a1"
 dependencies = [
   "pypdf[crypto]",
