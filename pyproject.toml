@@ -1,0 +1,7 @@
+[project]
+name = "autobotai-library-addons"
+version = "0.0.0a1"
+dynamic = ["version"]
+dependencies = [
+  "pypdf[crypto]",
+]
