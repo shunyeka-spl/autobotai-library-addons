@@ -1,6 +1,7 @@
 [project]
 name = "autobotai_library_addons"
-version = "0.0.0a2"
+version = "0.0.1"
 dependencies = [
   "pypdf[crypto]",
+  "reportlab"
 ]

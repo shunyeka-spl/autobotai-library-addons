@@ -1,3 +1,4 @@
 PACKAGE_NAMES = [
-    "pypdf"
+    "pypdf",
+    "reportlab"
 ]
